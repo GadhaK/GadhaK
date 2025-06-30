@@ -4,7 +4,7 @@
 
 🧬 Currently working on RNA-Seq data to study B-cell Acute Lymphoblastic Leukemia. My research integrates transcriptomics, machine learning, and clinical data to uncover diagnostic and prognostic biomarkers.
 
-🚀 I'm currently analyzing expression-based RNA-Seq data from a large Indian B-ALL cohort to reveal subtype-specific expression patterns, fusion events, and transcriptomic profiles — aiming to improve diagnostic accuracy and treatment strategies.
+🚀 I'm analyzing expression-based RNA-Seq data from a large Indian B-ALL cohort to reveal subtype-specific expression patterns, fusion events, and transcriptomic profiles — aiming to improve diagnostic accuracy and treatment strategies.
 
 💻 I work primarily in **R**, and **Unix environments**, and I’m actively learning **Python**, **Snakemake**, and **biostatistics** to enhance my workflow and reproducibility.
 
